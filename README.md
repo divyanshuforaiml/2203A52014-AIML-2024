@@ -10,3 +10,6 @@
 #AIMl-2024
 [Lab-04](https://github.com/divyanshuforaiml/2203A52014-AIML-2024.git)
 
+#AIML-2024
+[Lab-05](https://github.com/divyanshuforaiml/2203A52014-AIML-2024.git)
+
